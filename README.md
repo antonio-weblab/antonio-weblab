@@ -10,6 +10,10 @@
 
 <b>✨ Special thanks to GitHub Group ✨</b>
 
+# Last commercial projects:
+https://grancanariatennisprogram.es
+https://max-tennis.nl/
+
 " Coming together is a beginning. Keeping together is progress. 
   Working together is success. " 
                                                        (H.Ford)
