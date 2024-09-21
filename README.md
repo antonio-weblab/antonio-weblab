@@ -6,11 +6,6 @@
 
 📫 Reach me at: antonio.web.lab@gmail.com
 
-# Latest international deploys:
-https://max-tennis.nl
-<br>
-https://grancanariatennisprogram.es
-
 # Last project in development:
 Try to hack me on :
 <br>
