@@ -1,22 +1,24 @@
 ## 👋 Hi, I’m Antonio .
-Google certificated<br>
-<b>Data Analyst Specialist</b> and <b>IT Assistantance Specialist</b>;
+Google Specialist certificated<br>
+<b>Data Analyst</b> and <b>IT Assistantance</b>;
 
-<!-- 👀 I’m interested in <b>Computer Science</b>; -->
+I’m always happy to collaborate on <i>something interesting</i><br>
+about <b>Software development</b> and/or <b>Data Analytics</b>;
 
-💞️ I’m always happy to collaborate on <i>something interesting</i> about <b>Coding and/or Data Analytics</b>;
-
-📫 Reach me at: antonio.web.lab@gmail.com
+Contact: <br>
+antonio.web.lab@gmail.com <br>
+https://www.linkedin.com/in/antonio-r-83937a25b/ <br>
+https://anto-ru.github.io/anto-ru/ <br>
 
 # Last project in development:
 Try to hack me on :
 <br>
-https://github.com/AntonioWebLab/Flask_User-Authentication
+https://github.com/anto-ru/Flask_User-Authentication
 <br/>
 
 <b>✨ Special thanks to GitHub Group ✨</b>
 <br/>
 
-" Coming together is a beginning. Keeping together is progress. 
+" Coming together is a beginning. Keeping together is progress.<br>
   Working together is success. " 
                                                        (H.Ford)
