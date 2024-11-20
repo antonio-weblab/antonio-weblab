@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Antonio .
-Google Specialist certificated<br>
+Google Specialist certificated as<br>
 <b>Data Analyst</b> and <b>IT Assistantance</b>;
 
 I’m always happy to collaborate on <i>something interesting</i><br>
