@@ -2,6 +2,7 @@
 Google Specialist certificated as<br>
 <b>Data Analyst</b> and <b>IT Assistantance</b>;
 
+I like to <i>code and talk</i> about the tech world!<br>
 I’m always happy to collaborate on <i>something interesting</i><br>
 about <b>Software development</b> and/or <b>Data Analytics</b>;
 
